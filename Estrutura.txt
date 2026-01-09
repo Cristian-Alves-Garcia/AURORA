@@ -32,6 +32,7 @@ Código da Transformação: Indústria, manufatura, artesanato.
 Código da Troca: Comércio, compra e venda, mercado, concorrência.
 Código dos Serviços: Atividades imateriais, profissionais liberais.
 Código da Moeda e Crédito: Sistema financeiro, empréstimos, investimentos.
+Código das Externalidades:
 
 PILAR 5: A COLABORAÇÃO ORGANIZADA
 (Quando pessoas se unem para fins comuns)
@@ -40,6 +41,7 @@ Código das Associações: Grupos sem fins econômicos (clubes, ONGs, religiosos
 Código das Empresas: Organizações com fins econômicos (sociedades, corporações).
 Código do Trabalho: Todas as formas de labor humano organizado.
 Código das Profissões: Regulação de atividades especializadas.
+Estatuto do Tempo Humano:
 
 PILAR 6: O CONHECIMENTO E A TECNOLOGIA
 (Produção e gestão do saber)
@@ -82,4 +84,25 @@ Código da Administração Pública: Serviço público, transparência, eficiên
 Código da Tributação: Contribuição para custeio coletivo.
 Código da Representação: Eleições, partidos, democracia.
 Código da Defesa Nacional: Segurança externa, forças armadas.
+Código do Estado de Guerra:
+Código da Competência Decisória:
+
+PILAR 11: A ESTABILIDADE E AUTOCORREÇÃO DO SISTEMA
+
+Código das Garantias Fundamentais:
+Código de Auditoria Institucional:
+Código da Exceção:
+Código de Depreciação Normativa:
+
+PILAR 12: OS DEVERES E A RESPONSABILIDADE CÍVICA
+
+Estatuto dos Deveres Fundamentais:
+Código da Responsabilidade Individual:
+Código da Cooperação Social:
+Código do Uso Responsável das Liberdades:
+
+PRINCÍPIOS TRANSVERSAIS FUNDAMENTAIS
+
+Princípio da Responsabilidade Coletiva Simétrica:
+Princípio da Correspondência entre Direitos e Deveres:
 
