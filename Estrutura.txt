@@ -1,5 +1,101 @@
 CONSTITUIÇÃO DO SÉCULO (Estrutura de Pilares)
 
+     ├─ PILAR 1 (Indivíduo) ───┐
+     ├─ PILAR 2 (Família) ─────┤
+     ├─ PILAR 3 (Espaço) ──────┤
+     ├─ PILAR 4 (Produção) ────┤
+     ├─ PILAR 5 (Colaboração) ─┤
+     ├─ PILAR 6 (Conhecimento) ─┤
+     ├─ PILAR 7 (Biosistema) ──┤← Todos conectados
+     ├─ PILAR 8 (Convívio) ────┤   e regulados pelo Pilar 0
+     ├─ PILAR 9 (Tempo) ───────┤
+     ├─ PILAR 10 (Política) ───┤
+     ├─ PILAR 11 (Estabilidade)┤
+     └─ PILAR 12 (Deveres) ────┘
+
+PILAR 0: O EQUILÍBRIO DOS PILARES
+
+Código da Arbitragem Sistêmica:
+
+Princípio da Coerência Suprema: Nenhuma decisão entre Pilares sem arbitragem
+Método da Ponderação Hexagonal: Seis dimensões de análise para conflitos
+Algoritmo de Decisão Integrada: Sistema de pontuação para impasses
+Protocolo de Emergência Sistêmica: Para crises que afetam 4+ Pilares simultaneamente
+Tribunal das Contradições: Corte especializada apenas em conflitos entre Pilares
+
+Estatuto da Coerência Normativa:
+
+Regra da Não-Contradição Ativa: Proibição de determinações mutuamente excludentes
+Princípio da Subsidiaridade Sistêmica: Resolver com menor número de Pilares possível
+Cláusula de Harmonia Preventiva: Novas leis devem prever conflitos com outros Pilares
+Mapa de Interações Críticas: Catálogo de pontos de conflito conhecidos entre Pilares
+Sistema de Alerta Antecipado: Detecção automática de futuros conflitos normativos
+
+Código do Imperador-Árbitro:
+
+Competências Exclusivas: Casos onde 3+ Pilares estão em conflito irreconciliável
+Poder de Suspensão Temporária: Paralisar leis de um Pilar por 90 dias máximo
+Dever da Fundamentação Meta-Sistêmica: Decisões devem explicar o equilíbrio alcançado
+Limite da Intervenção: Não pode criar nova legislação, apenas arbitrar existente
+Transparência Radical: Todas as deliberações do Pilar 0 são públicas e indexadas
+
+Estatuto dos Mecanismos de Auto-Correção:
+
+Revisão Periódica de Coerência: A cada 5 anos, análise de todos os conflitos inter-Pilares
+Painel de Especialistas Transversais: 12 especialistas (um por Pilar) assessoram o Pilar 0
+Simulações de Estresse Sistêmico: Testes regulares com cenários extremos
+Banco de Soluções de Equilíbrio: Catálogo de decisões anteriores para casos similares
+Índice de Saúde Sistêmica: Métrica pública do grau de coerência entre Pilares
+
+Protocolo de Colapso Paradoxal:
+
+Definição de Paradoxo Insolúvel: Quando análise hexagonal resulta em empate técnico
+Procedimento de Exceção Meta-Normativa: Ativação de regras de desempate excepcionais
+Cláusula de Consulta Popular Direta: Em paradoxos graves, referendo em 60 dias
+Mecanismo de Criação de Pilar Emergencial: Para novos domínios não cobertos
+Protocolo de Reset Parcial: Revisão profunda de um Pilar específico
+
+Código da Evolução Equilibrada do Sistema:
+
+Princípio da Adaptação Coordenada: Mudanças em um Pilar devem considerar impactos nos outros
+Sistema de Pesos Dinâmicos: Importância relativa dos Pilares ajustável por contexto
+Mecanismo de Compensação Inter-Pilar: Quando um Pilar perde, outros compensam
+Proibição de Dominação Permanente: Nenhum Pilar pode prevalecer sempre sobre outro
+Cláusula de Reequilíbrio Geracional: A cada 25 anos, reavaliação completa das relações entre Pilares
+
+Tribunal do Equilíbrio (composição):
+
+1 Árbitro Principal (o Imperador em funções específicas)
+12 Juízes de Ligação (especialistas em pares de Pilares)
+3 Filósofos do Sistema (especialistas em coerência teórica)
+2 Representantes Populares (escolhidos por sorteio)
+1 Historiador dos Conflitos (para perspectiva temporal)
+Decisões por maioria qualificada (2/3 dos presentes)
+
+Sistema de Emergências Sistêmicas:
+
+Nível 1 (Atenção): 2 Pilares em conflito moderado
+Nível 2 (Alerta): 3 Pilares em conflito grave
+Nível 3 (Crítico): 4+ Pilares ou paradoxo insolúvel
+Nível 4 (Colapso): Sistema jurídico paralisado por contradições
+Protocolos específicos para cada nível de emergência
+
+Princípios Meta-Jurídicos do Pilar 0:
+
+Primazia da Sobrevivência do Sistema: O sistema como um todo prevalece sobre partes
+Prevenção de Cascata de Falhas: Conter conflitos antes de se espalharem
+Otimização da Coerência Global: Busca do maior alinhamento possível
+Transparência como Antídoto da Tirania: Todas as decisões devem ser compreensíveis
+Humildade Sistêmica: Reconhecimento de que o sistema pode estar errado
+
+Mecanismos de Execução das Decisões do Pilar 0:
+
+Poder de Injunção Coercitiva: Exigir conformidade dos outros Pilares
+Sistema de Sanções por Incoerência: Para leis que criam conflitos evitáveis
+Revisão Obrigatória: Pilares devem modificar leis incompatíveis em 180 dias
+Suspensão de Eficácia: Decisões conflitantes perdem efeito imediatamente
+Publicação do Mapa de Conformidade: Status público do alinhamento entre Pilares
+
 PILAR 1: O SER HUMANO COMO INDIVÍDUO
 (Direitos inerentes à existência da pessoa)
 
